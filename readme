@@ -1,0 +1,22 @@
+python3 run_pipe.py --mode dashboard
+
+python3 run_pipe.py --mode full
+
+python3 run_pipe.py --mode process
+
+
+    a.py - feature prediction
+    b.py - promo prediction
+    c.py - merge actual
+    d.py - merge predicted
+    e.py - feature engineering
+    f.py - model training
+    g.py - dashboard
+    h.py - full pipeline
+
+
+python3 h.py --mode dashboard
+
+python3 h.py --mode full
+
+python3 h.py --mode process
