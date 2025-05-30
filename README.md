@@ -1,6 +1,6 @@
 # Tyre Sales Forecasting System using Machine Learning
 
-This system leverages machine learning to forecast monthly tyre sales for Ceat Kelani International Tyres (Pvt) Ltd. By integrating historical sales, external macroeconomic data, and promotional inputs, it delivers precise group-level forecasts and visualizations to support strategic planning and inventory optimization.
+This system leverages machine learning to forecast monthly tyre sales for JAY Tyres (Pvt) Ltd. By integrating historical sales, external macroeconomic data, and promotional inputs, it delivers precise group-level forecasts and visualizations to support strategic planning and inventory optimization.
 
 ## Project Objectives
 
