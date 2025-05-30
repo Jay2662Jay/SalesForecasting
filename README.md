@@ -17,7 +17,7 @@ project/
 ├── data/                   # Contains all raw and processed CSVs
 ├── feature_outputs/        # Stores generated features and processed datasets
 ├── main/                   # All Python scripts and main pipeline files
-│   ├── a.py                # Feature prediction (e.g., crude oil, traffic, etc.)
+│   ├── a.py                # Feature prediction (e.g. crude oil, traffic, etc.)
 │   ├── b.py                # Promotion prediction
 │   ├── c.py                # Merge actual sales + features + promo (2016–2024)
 │   ├── d.py                # Merge predicted features + promo (2025)
