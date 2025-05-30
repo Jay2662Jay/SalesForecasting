@@ -1,6 +1,6 @@
 # Tyre Sales Forecasting System using Machine Learning
 
-This machine learning pipeline forecasts monthly tyre sales for Ceat Kelani International Tyres (Pvt) Ltd. The system combines historical sales, macroeconomic indicators, and promotional spending to provide highly accurate predictions.
+This machine learning pipeline forecasts monthly tyre sales for JAY Tyres (Pvt) Ltd. The system combines historical sales, macroeconomic indicators, and promotional spending to provide highly accurate predictions.
 
 ## 🎯 Project Objectives
 
@@ -26,7 +26,7 @@ project/
 │   ├── g.py                # Streamlit dashboard
 │   ├── h.py                # Full pipeline controller
 │   └── readme              # Readme file (this)
-└── MISC/                   # Miscellaneous resources (e.g., documentation, notebooks)
+└── MISC/                   # Miscellaneous resources (e.g. previous trails, etc.)
 ```
 
 ## ⚙️ Execution Modes
